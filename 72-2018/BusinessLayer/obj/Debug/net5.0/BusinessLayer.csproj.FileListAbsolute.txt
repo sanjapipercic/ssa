@@ -1,0 +1,15 @@
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sanja\source\repos\72-2018\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
